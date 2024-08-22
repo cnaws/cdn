@@ -145,8 +145,8 @@ sync_time(){
 }
 
 # 直接指定版本
-VER="v5.6.13"
-tar_gz_name="cdnfly-agent-${VER}-5.6.14.tar.gz"
+VER="v5.6.14"
+tar_gz_name="cdnfly-agent-${VER}.tar.gz"
 
 install_depend
 get_sys_ver
